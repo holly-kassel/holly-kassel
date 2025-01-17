@@ -4,7 +4,7 @@
 🫶 **Pronouns:** she/her/hers\
 📍 **Location:** Chicago, Illinois\
 💼 **Role:** Product Manager III @ GitHub\
-🗣️ **Name pronounciation:** **Holly** (like the [plant](https://www.merriam-webster.com/dictionary/holly)) **Kassel** (sounds like "Castle)
+🗣️ **Name pronounciation:** **Holly** (like the [plant](https://www.merriam-webster.com/dictionary/holly)) **Kassel** (sounds like "Castle")
 
 
 ---
