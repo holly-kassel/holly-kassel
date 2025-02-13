@@ -28,13 +28,15 @@ Early and often, I don't know what I don't know! I thrive on feedback and value 
     
 ### 💬 Ask me about:
 
-🐕 My dog, Katya\
+<detail>
+<summary> 🐕 My dog, Katya </summary>
 <img src="https://github.com/user-attachments/assets/339119d0-81f0-4a5e-b0f0-91491c940309" alt="a white, fluffy Samoyed dog with a black nose and dark brown eyes smiles looking at the camera with a big goofy smile" width="200"/>
+</detail>
 
-
-🐈‍⬛ My cat, Lulu\
+<detail>
+<summary> 🐈‍⬛ My cat, Lulu </summary>
 <img src="https://github.com/user-attachments/assets/764d4462-9f7a-469c-925e-ce7baec0d7e5" alt="a black cat with a white chest and white whiskers sits on a green velvet couch. A green spide plant is sitting behind her." width="200"/>
-
+</detail>
 
 🌱 My obsession with plants\
 <img src="https://github.com/user-attachments/assets/8a005f4c-9c74-4530-91d6-0aad319ed27d" alt="a close up image of a hibiscus plant. Two large light-orange flowers are blooming" width="200"/>
