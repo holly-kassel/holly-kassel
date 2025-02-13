@@ -28,25 +28,30 @@ Early and often, I don't know what I don't know! I thrive on feedback and value 
     
 ### 💬 Ask me about:
 
-<detail>
+<details closed>
 <summary> 🐕 My dog, Katya </summary>
 <img src="https://github.com/user-attachments/assets/339119d0-81f0-4a5e-b0f0-91491c940309" alt="a white, fluffy Samoyed dog with a black nose and dark brown eyes smiles looking at the camera with a big goofy smile" width="200"/>
-</detail>
+</details>
 
-<detail>
+<details closed>
 <summary> 🐈‍⬛ My cat, Lulu </summary>
 <img src="https://github.com/user-attachments/assets/764d4462-9f7a-469c-925e-ce7baec0d7e5" alt="a black cat with a white chest and white whiskers sits on a green velvet couch. A green spide plant is sitting behind her." width="200"/>
-</detail>
+</details>
 
-🌱 My obsession with plants\
+<details closed>
+<summary>🌱 My obsession with plants </summary>
 <img src="https://github.com/user-attachments/assets/8a005f4c-9c74-4530-91d6-0aad319ed27d" alt="a close up image of a hibiscus plant. Two large light-orange flowers are blooming" width="200"/>
+</details>
 
-🌆 Why Chicago is awesome\
+<details closed>
+<summary>🌆 Why Chicago is awesome</summary>
 <img src="https://github.com/user-attachments/assets/cfef9662-0f7a-4a00-bf0b-33aa1a46c2ce" alt="an image of downtown Chicago overlooking the Chicago River. Several bridges cross the river, and tall skyscrapers hug the river on either end. The sun is setting in the background" width="200"/>
+</details>
 
-✈️ Where I have traveled recently\
+<details closed>
+<summary>✈️ Where I have traveled recently</summary>
 <img src="https://github.com/user-attachments/assets/fcf551b3-a5c9-45f8-ae11-82877ba679ce" alt="an image of Gediminas Tower, a very old, small, red brick tower that overlooks the city of Vilnius, Lithuania on top of a hill. The Lithuanian flag, which has yellow, green, and red horizontal stripes, sits on top of the tower" width="200"/>
-
+</details>
 
 ### 🎊 Fun fact:
 You can catch me in the air most weekends in aerial silks classes!\
